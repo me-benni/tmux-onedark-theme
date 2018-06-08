@@ -68,7 +68,7 @@ set "pane-active-border-fg" "$onedark_white"
 set "display-panes-active-colour" "$onedark_yellow"
 set "display-panes-colour" "$onedark_blue"
 
-set "status-bg" "$onedark_black"
+set "status-bg" "default"
 set "status-fg" "$onedark_white"
 
 set "@prefix_highlight_fg" "$onedark_black"
